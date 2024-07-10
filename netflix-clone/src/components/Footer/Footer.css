@@ -1,12 +1,11 @@
 .footer_outer_container {
   background-color: #111;
   color: grey;
-  display:flex;
+  display: flex;
   justify-content: center;
 }
 .footer_inner_container {
   width: 60%;
-
 }
 .footer_icons {
   width: 15%;
